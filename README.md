@@ -1,4 +1,4 @@
-# 🎉 Introducing the Network Tweaker Auto Script! 🎉
+# 🎉 Introducing Auto Script! 🎉
 
 🚀 Unlock the Power of Your Network with These Features:
 
@@ -10,3 +10,16 @@
 ## 👉 Install Now:
 ```bash
 bash <(curl -Ls https://github.com/lalfulsk/NT-A.I.O/raw/main/NT_AIO.sh)
+
+
+Supported Platforms:
+Ubuntu 20.04
+Ubuntu 22.04
+Ubuntu 24.04
+
+
+👏 Credits:
+🛠 UI Modifications: @ITACHIUCHIHASENSEI
+🐞 Bug Fixing: @cybernova1
+
+Your feedback is invaluable! Spread the Love! ❤️❤️
